@@ -5,7 +5,7 @@
       "source": "mattpocock/skills",
       "sourceType": "github",
       "skillPath": "skills/engineering/ask-matt/SKILL.md",
-      "computedHash": "2993ae85e416ea787a3b03acab034c5cfa68ee04f779fcf5adb334cc3fb4b04e"
+      "computedHash": "6012ed65ccd92c21ec440d2fa594a62dacc9da58bcf90b7aa3200977a6742b73"
     },
     "batch-grill-me": {
       "source": "mattpocock/skills",
@@ -173,7 +173,7 @@
       "source": "mattpocock/skills",
       "sourceType": "github",
       "skillPath": "skills/engineering/tdd/SKILL.md",
-      "computedHash": "81eca2a5b53a63f481c0849be7a663a8cd43d5cf53f32b644ec0a2f50cf91aa2"
+      "computedHash": "614ac2e45fb0ec02f6ce422d26bd9aa4e33aa4867323f5a3a5c0c20b96f78ff4"
     },
     "teach": {
       "source": "mattpocock/skills",
