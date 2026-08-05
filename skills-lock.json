@@ -5,7 +5,7 @@
       "source": "mattpocock/skills",
       "sourceType": "github",
       "skillPath": "skills/engineering/ask-matt/SKILL.md",
-      "computedHash": "55344f17a174baf79c16098ca4b6b583e3fba37e18b2bf08ae1083b0f9126668"
+      "computedHash": "2993ae85e416ea787a3b03acab034c5cfa68ee04f779fcf5adb334cc3fb4b04e"
     },
     "batch-grill-me": {
       "source": "mattpocock/skills",
@@ -155,7 +155,7 @@
       "source": "mattpocock/skills",
       "sourceType": "github",
       "skillPath": "skills/engineering/setup-matt-pocock-skills/SKILL.md",
-      "computedHash": "5d1dde73cf1950e69c61c4668769a9fa9bf3a12e9047ddc03ac5ccf0405e1853"
+      "computedHash": "f9c2b933dda18eea572e96f6ebbcd5b30e0d1bfdc074af53cc99728dc5f0bdac"
     },
     "setup-pre-commit": {
       "source": "mattpocock/skills",
@@ -210,6 +210,12 @@
       "sourceType": "github",
       "skillPath": "skills/deprecated/ubiquitous-language/SKILL.md",
       "computedHash": "0395170031b57ea63f2eb22561542894c03e3047430a2f1118a06b411054429b"
+    },
+    "wait-what": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/wait-what/SKILL.md",
+      "computedHash": "9638acdcd76457ca70a007b5a02c4bf44893fb3064692a9158d907e82f200eec"
     },
     "wayfinder": {
       "source": "mattpocock/skills",
